@@ -1,9 +1,13 @@
-*.log
-*.pot
-*.pyc
+# Python
 __pycache__/
-local_settings.py
-db.sqlite3
-media
-venv
-.vscode
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+env/
+.idea/
+*.sqlite3
+/staticfiles/
